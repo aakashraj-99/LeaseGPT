@@ -1,0 +1,9 @@
+authtoken: 2aYWxxkm15JYUosVrktrcT6mIgm_6CUYjNN9iiyh8moGrw8zb
+tunnels:
+  tunnel1:
+    proto: http
+    addr: 80
+  tunnel2:
+    proto: http
+    addr: 81
+  # Add more tunnels as needed
